@@ -1,0 +1,12 @@
+/**
+ *  @file
+ *  @copyright defined in DA-DAPPS/LICENSE
+ */
+
+#include <DA-DAPPSio/chain/genesis_state.hpp>
+
+namespace DA-DAPPSio { namespace chain {
+
+const string genesis_state::DA-DAPPSio_root_key = "${DA-DAPPSio_ROOT_KEY}";
+
+} } // namespace DA-DAPPSio::chain

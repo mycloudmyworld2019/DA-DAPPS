@@ -1,0 +1,14 @@
+{
+    "DA-DAPPSio-lrt":
+    {
+        "pipeline-branch": "legacy-os"
+    },
+    "DA-DAPPSio-nightly-builds":
+    {
+        "pipeline-branch": "legacy-os"
+    },
+    "DA-DAPPSio-base-images":
+    {
+        "pipeline-branch": "release/1.7.x"
+    }
+}
